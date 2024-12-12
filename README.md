@@ -1,6 +1,6 @@
-# Modbus Simulator 
+# Modbus Simulator
 
-## Description :octocat:
+## Description 
 
 `modbus_simulator.py` est un script Python conçu pour simuler un serveur Modbus TCP. Ce simulateur est utile pour tester des applications industrielles ou des systèmes SCADA sans nécessiter de matériel réel. Le script utilise la bibliothèque [pymodbus](https://github.com/bashwork/pymodbus/) pour fournir un environnement entièrement fonctionnel.
 
@@ -91,7 +91,7 @@ client.close()
 
 Les contributions sont les bienvenues ! Si vous souhaitez ajouter des fonctionnalités ou corriger des problèmes, n'hésitez pas à ouvrir une issue ou à proposer une pull request.
 
-## Licence
+## Licence  :octocat:
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus d'informations.
 
