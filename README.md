@@ -97,8 +97,8 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus d'informatio
 
 ---
 
-### Auteur :shipit:
-Créé par **zзd**.
+### Auteur 
+Créé par **zзd**:shipit:.
 
 Pour toute question ou suggestion, contactez-moi à [zoran.tauvry@ens.uvsq.fr](zoran.tauvry@ens.uvsq.fr).
 
